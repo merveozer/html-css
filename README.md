@@ -1,5 +1,5 @@
 # html-css
-I have created a web site with HTML, CSS.
+I have created a web site using HTML, CSS.
 
 ![home](https://user-images.githubusercontent.com/74708604/111763465-3b478b00-88b3-11eb-8b03-98108788ee81.png)
 ![about](https://user-images.githubusercontent.com/74708604/111763486-426e9900-88b3-11eb-9dfb-c6e45d9bbf12.png)
